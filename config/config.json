@@ -12,11 +12,11 @@
   "NFT_NAME": "SPace Turtles NFT",
   "SYMBOL": "STN",
   "MAX_SUPPLY": 9000,
-  "WEI_COST": 69000000000000000,
+  "WEI_COST": 60000000000000000,
 
-  "DISPLAY_COST": 0.069,
+  "DISPLAY_COST": 0.06,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/SPaceturtles",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/SpaceTurtlesNFT-REALONE",
   "SHOW_BACKGROUND": true
 }
